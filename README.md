@@ -1,0 +1,2 @@
+# Entorno_virtual
+virutual
